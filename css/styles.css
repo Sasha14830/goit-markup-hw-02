@@ -142,8 +142,8 @@ background-color: #2e2f42;
 }
 
 .team-link{
-    width="264"; 
-    height="260";
+    width: 264px;
+    height: 260px;
 }
 
 .team-name {
@@ -176,9 +176,10 @@ font-weight: 400;
 }
 
 .portfolio-link{
-    width="360"; 
-    height="300";
+    width: 360px;
+    height: 300px;
 }
+   
 
 .portfolio-name{
     font-weight: 500;
