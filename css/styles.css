@@ -60,6 +60,11 @@ color: #2e2f42;
 color: #404bbf;
 }
 
+.section-button:hover,
+.section-button:focus{
+background-color: #404bbf;
+}
+
 .main-section-list{
     background-color: #2e2f42;
 }
