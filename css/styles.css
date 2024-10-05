@@ -112,7 +112,7 @@ background-color: #2e2f42;
 }
 
 .information-name{
-font-weight: 500;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -139,6 +139,11 @@ font-weight: 500;
 
 .team-item{
     background-color: #FFFFFF;
+}
+
+.team-link{
+    width="264"; 
+    height="260";
 }
 
 .team-name {
@@ -168,6 +173,11 @@ font-weight: 400;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+}
+
+.portfolio-link{
+    width="360"; 
+    height="300";
 }
 
 .portfolio-name{
